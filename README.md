@@ -24,3 +24,4 @@ OOP是一种垂直向的体系，比如X从Y继承得来
 AOP是一种横向的体系。
 在一些业务场景中，我们需要一种横向的编程体系，比如我们提供一种账号服务，在访问所有服务前都需要校验当前登录的用户，在结束访问前，都需要记录当前访问获取了哪些数据，在传统的OOP中，需要把这些行为都强耦合到业务代码中。
 
+[![纵向](https://github.com/liuguanglei123/springBase/blob/master/images/pic1.png "纵向")](https://github.com/liuguanglei123/springBase/blob/master/images/pic1.png "纵向")
